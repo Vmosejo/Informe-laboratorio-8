@@ -33,7 +33,7 @@
 #### 4.2 ¿En qué valor está posicionada la perilla VOLTS/DIV?
 * Esta posicionado en el valor de 3.
 #### 4.3 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
-* Un ciclo abarca 4.6 cuadros aprox.
+* Un ciclo abarca 4 cuadros desde que empieza hasta que termina.
 #### 4.4 ¿En qué valor está posicionada la perilla TIME/DIV?
 * Esta posicionado en el valor de 0.1m.
 #### 4.5 ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
@@ -48,6 +48,7 @@
 * El voltaje obtenido en el punto 4.5 es de 6,82 V mientras que en el punto 4.7 tiene un valor de 4,801 V por lo que no coinciden porque el valor del punto 4.5 es el valor del voltaje pico obtenido del osciloscopio mientras que el valor de punto 4.7 es el valor del voltaje rms obtenido por el multímetro, wsto se debe a que la onda sinosoidal nunca es perfecta, solo se pueden considerar fiables las medidas tomadas con multímetros True RMS cuando se trabaja en instalaciones de corriente alterna..
 
 ## 5. VIDEO
+https://www.youtube.com/watch?v=DQi5CS7EAkg
 
 ## 6. CONCLUSIONES
 * Las ondas senoidales son patrones de ondas que matemáticamente pueden ser descritas mediante las funciones seno y coseno. Describen acertadamente eventos naturales y señales variables en el tiempo, tales como los voltajes generados por centrales eléctricas y luego utilizados en hogares, industrias y calles.
