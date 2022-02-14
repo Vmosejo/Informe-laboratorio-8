@@ -50,8 +50,10 @@
 ## 5. VIDEO
 
 ## 6. CONCLUSIONES
+* Las ondas senoidales son patrones de ondas que matemáticamente pueden ser descritas mediante las funciones seno y coseno. Describen acertadamente eventos naturales y señales variables en el tiempo, tales como los voltajes generados por centrales eléctricas y luego utilizados en hogares, industrias y calles.
+* Las características de amplitud y frecuencia son controladas mediante perillas, respetando tanto la forma de onda de las tres señales senoidales, como su amplitud simétrica con respecto a cero volts.
+* La altura de la onda en cualquier lugar y tiempo, medida desde el centro (posición de equilibrio) es la magnitud de desplazamiento. El maximo del magnitud de desplazamiento se llama la amplitud de la onda.
 
- 
 ## 7. BIBLIOGRAFÍA 
 * Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson.
 * A.Svoboda, R. C. (2011). Circuitos Electricos. Mexico: Alfaomega.
