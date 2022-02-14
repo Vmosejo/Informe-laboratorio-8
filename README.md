@@ -27,8 +27,25 @@
 
 ![image](https://user-images.githubusercontent.com/93681159/153962104-aee579b8-d299-4838-bab9-c95c4252341a.png)
 
-## 4. TABLAS Y RESPUESTA A INTERROGANTES 
-### TABLAS.
+## 4.RESPUESTA A INTERROGANTES 
+#### 4.1 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
+* Se puede observar que abarca 2.3 divisiones por cuadro.
+#### 4.2 ¿En qué valor está posicionada la perilla VOLTS/DIV?
+* Esta posicionado en el valor de 3.
+#### 4.3 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
+* Un ciclo abarca 4.6 cuadros aprox.
+#### 4.4 ¿En qué valor está posicionada la perilla TIME/DIV?
+* Esta posicionado en el valor de 0.1m.
+#### 4.5 ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
+* Ampl. de voltaje: 6.82 V
+* Periodo: 12/0.0004s
+#### 4.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
+Frecuencia Natural: 0.16 Hz 
+Frecuencia Angular: 1.005 rad/s
+#### 4.7 Con el multímetro digital mida el voltaje de salida en RL:
+* El valor del voltaje de salida medido en RL es 4.801 V 
+#### 4.8 Compare el voltaje medido en el punto 4.5 y el obtenido en el punto 4.7 ¿Coinciden? ¿Por qué?
+* El voltaje obtenido en el punto 4.5 es de 6,82 V mientras que en el punto 4.7 tiene un valor de 4,801 V por lo que no coinciden porque el valor del punto 4.5 es el valor del voltaje pico obtenido del osciloscopio mientras que el valor de punto 4.7 es el valor del voltaje rms obtenido por el multímetro.
 
 ## 5. VIDEO
 
