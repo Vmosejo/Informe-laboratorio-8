@@ -40,8 +40,8 @@
 * Ampl. de voltaje: 6.82 V
 * Periodo: 12/0.0004s
 #### 4.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
-Frecuencia Natural: 0.16 Hz 
-Frecuencia Angular: 1.005 rad/s
+* Frecuencia Natural: 0.16 Hz 
+* Frecuencia Angular: 1.005 rad/s
 #### 4.7 Con el multímetro digital mida el voltaje de salida en RL:
 * El valor del voltaje de salida medido en RL es 4.801 V 
 #### 4.8 Compare el voltaje medido en el punto 4.5 y el obtenido en el punto 4.7 ¿Coinciden? ¿Por qué?
