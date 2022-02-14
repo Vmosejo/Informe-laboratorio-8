@@ -45,7 +45,7 @@
 #### 4.7 Con el multímetro digital mida el voltaje de salida en RL:
 * El valor del voltaje de salida medido en RL es 4.801 V 
 #### 4.8 Compare el voltaje medido en el punto 4.5 y el obtenido en el punto 4.7 ¿Coinciden? ¿Por qué?
-* El voltaje obtenido en el punto 4.5 es de 6,82 V mientras que en el punto 4.7 tiene un valor de 4,801 V por lo que no coinciden porque el valor del punto 4.5 es el valor del voltaje pico obtenido del osciloscopio mientras que el valor de punto 4.7 es el valor del voltaje rms obtenido por el multímetro.
+* El voltaje obtenido en el punto 4.5 es de 6,82 V mientras que en el punto 4.7 tiene un valor de 4,801 V por lo que no coinciden porque el valor del punto 4.5 es el valor del voltaje pico obtenido del osciloscopio mientras que el valor de punto 4.7 es el valor del voltaje rms obtenido por el multímetro, wsto se debe a que la onda sinosoidal nunca es perfecta, solo se pueden considerar fiables las medidas tomadas con multímetros True RMS cuando se trabaja en instalaciones de corriente alterna..
 
 ## 5. VIDEO
 
