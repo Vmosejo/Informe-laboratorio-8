@@ -1,12 +1,19 @@
 # Informe-laboratorio-8
 ## 1. OBJETIVOS
    1.1 GENERAL
-   
- 
+   * Analizar la representacion de la onda senoidal y sus características mediante la utilizacion de un osciloscopio.
    
    1.2 ESPECÍFICOS   
    
+   * Construir el circuito para distinguir el comportamiento de la onda senoidal.
+   * Conocer los instrumentos que permiten medir los mismos valores (valor medio y valor eficaz).
+   * Definir la frecuencia más adecuada de trabajo en base al tipo de Transformador que se va a hacer uso.
+   
 ## 2. MARCO TEÓRICO
+
+![image](https://user-images.githubusercontent.com/93666408/154055814-5cc5c4d9-4774-4984-a204-5ee4331d9338.png)
+
+![image](https://user-images.githubusercontent.com/93666408/154057929-2e3cd9c9-0d50-4241-beeb-173117b37066.png)
 
 
 
